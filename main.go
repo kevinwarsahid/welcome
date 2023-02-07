@@ -1,11 +1,11 @@
 package main
 
 import (
-	"github.com/kevinwarsahid/helloworld"
+	"fmt"
 )
 
-func main(){
+func main() {
 
-	helloworld.
+	fmt.Println("Hello World")
 
 }
